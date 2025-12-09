@@ -1,6 +1,6 @@
 import gradio as gr
 
-# === Sorting functions ===
+# Sorting functions
 
 def parse_input(user_text):
     """Turn '3, 1, 4' into [3, 1, 4]."""
@@ -84,7 +84,7 @@ def do_one_step(curr_state):
     return str(arr), explanation, curr_state
 
 
-# === Gradio UI (Blocks + State) ===
+# Gradio UI (Blocks + State)
 
 with gr.Blocks() as bubble_app:
     gr.Markdown("# Bubble Sort Visualizer")
