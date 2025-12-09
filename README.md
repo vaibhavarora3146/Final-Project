@@ -73,3 +73,12 @@ https://huggingface.co/spaces/vaibhav3146/bubblesort-visualizer-vaibhav
 ### Test Case 2
 
 ![Test Case 2](screenshots/Test2-1.png)
+![Test Case 2](screenshots/test2-2.png)
+![Test Case 2](screenshots/Test2-3.png)
+![Test Case 2](screenshots/Test2-4.png)
+![Test Case 2](screenshots/Test2-5.png)
+![Test Case 2](screenshots/Test2-6.png)
+![Test Case 2](screenshots/Test2-7.png)
+![Test Case 2](screenshots/Test2-8.png)
+![Test Case 2](screenshots/Test2-9.png)
+![Test Case 2](screenshots/Test2-10.png)
