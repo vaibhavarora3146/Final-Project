@@ -110,3 +110,9 @@ https://huggingface.co/spaces/vaibhav3146/bubblesort-visualizer-vaibhav
 ### Name: Vaibhav Arora
 ### Student ID: 20473293
 ### Course: CISC121
+
+---
+
+# AI Disclaimer
+
+The project was done with the help of generative AI at AI Level 4, according to the guidelines of the course. I established ChatGPT to assist in idea generation, descriptions of Gradio State, and README text draft. All AI-assisted information was reviewed, edited, and tested by me to make sure I am familiar with the algorithm, the code is functioning as I wished, and that the end product is a demonstration of my personal learning.
