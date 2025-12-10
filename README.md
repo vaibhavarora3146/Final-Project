@@ -57,6 +57,8 @@ A gr.State component is a dictionary containing such fields as arr, i, j, n, and
 
 https://huggingface.co/spaces/vaibhav3146/bubblesort-visualizer-vaibhav
 
+---
+
 ## Testing & Verification
 
 ### Test Case 1
@@ -91,3 +93,20 @@ https://huggingface.co/spaces/vaibhav3146/bubblesort-visualizer-vaibhav
 ![Test Case 3](screenshots/Test3-4.png)
 ![Test Case 3](screenshots/Test3-5.png)
 ![Test Case 3](screenshots/Test3-6.png)
+
+---
+
+# Files in This Repository
+
+1. app.py - Main application with gradio consisting of Bubble Sort logic.
+2. README.md - documentation file (you are on it right now)
+3. requirements.txt - All required dependencies
+
+---
+
+# Author and Acknowledgment
+
+## Final Project: Gradio Algorithm - Bubble Sort
+### Name: Vaibhav Arora
+### Student ID: 20473293
+### Course: CISC121
